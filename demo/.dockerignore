@@ -1,0 +1,6 @@
+target/
+.idea/
+*.iml
+Datamark/
+HELP.md
+*.log
